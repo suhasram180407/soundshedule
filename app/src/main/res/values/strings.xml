@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SoundSchedule</string>
+    <string name="widget_description">Displays current sound mode, master schedule status, and upcoming sound changes.</string>
+</resources>

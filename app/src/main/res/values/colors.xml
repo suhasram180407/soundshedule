@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="widget_bg">#000000</color>
+    <color name="widget_border">#2C2C2E</color>
+    <color name="widget_sub_card">#121212</color>
+    <color name="widget_sub_card_border">#222222</color>
+    <color name="widget_text_primary">#FFFFFF</color>
+    <color name="widget_text_secondary">#D1D1D6</color>
+    <color name="widget_text_muted">#8E8E93</color>
+
+    <color name="mode_normal">#22C55E</color>
+    <color name="mode_vibrate">#F59E0B</color>
+    <color name="mode_mute">#60A5FA</color>
+    <color name="mode_dnd">#EF4444</color>
+    <color name="mode_off">#A855F7</color>
+    <color name="mode_silent">#60A5FA</color>
+
+    <color name="badge_master_on_bg">#2610B981</color>
+    <color name="badge_master_off_bg">#1D222D</color>
+</resources>
